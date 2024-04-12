@@ -43,7 +43,7 @@ public class Main {
             }
             else{
                 scanner.next();
-                System.out.println("\nInvalid input, please type 1,2 or 3");
+                System.out.println("\nInvalid input, please type 1,2,3 or 4");
             }
         }
     }
