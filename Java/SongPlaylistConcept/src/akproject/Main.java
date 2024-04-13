@@ -156,7 +156,7 @@ public class Main {
                }
             }
             else {
-//                scanner.next();
+                scanner.next();
                 System.out.println("\nInvalid input please choose from the available options");
                 printMenu();
             }
